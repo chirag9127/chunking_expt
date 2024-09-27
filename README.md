@@ -37,33 +37,15 @@ The text output of web scraping is often very messy. In particular, if there are
 # Results
 
 Evaluation Results Summary:
-RecursiveTokenChunker:
-  Precision Mean: 0.0135
-  Recall Mean: 0.7358
-  IOU Mean: 0.0135
-
-ClusterSemanticChunker:
-  Precision Mean: 0.0327
-  Recall Mean: 0.6862
-  IOU Mean: 0.0325
-
-KamradtModifiedChunker:
-  Precision Mean: 0.0230
-  Recall Mean: 0.7293
-  IOU Mean: 0.0230
-
-NaiveChunker:
-  Precision Mean: 0.0367
-  Recall Mean: 0.6450
-  IOU Mean: 0.0363
-
-LLMSemanticChunker:
-  Precision Mean: 0.0357
-  Recall Mean: 0.7043
-  IOU Mean: 0.0357
+| Chunker | Precision Mean | Recall Mean | IOU Mean |
+|---------|----------------|-------------|----------|
+| RecursiveTokenChunker | 0.0135 | 0.7358 | 0.0135 |
+| ClusterSemanticChunker | 0.0327 | 0.6862 | 0.0325 |
+| KamradtModifiedChunker | 0.0230 | 0.7293 | 0.0230 |
+| NaiveChunker | 0.0367 | 0.6450 | 0.0363 |
+| LLMSemanticChunker | 0.0357 | 0.7043 | 0.0357 |
 
 ---
-
 
 # Usage
 
