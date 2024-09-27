@@ -73,3 +73,11 @@ To use this project, follow these steps:
 
 Note: Make sure to set up your OpenAI API key in a `.env` file or as an environment variable before running the LLMChunker.
 
+---
+
+## Credits
+
+This project's evaluation methodology is inspired by and builds upon the work presented in Chroma's technical report:
+
+"Evaluating Chunking Strategies for Retrieval" by Chroma Research
+[https://research.trychroma.com/evaluating-chunking](https://research.trychroma.com/evaluating-chunking)
