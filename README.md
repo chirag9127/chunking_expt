@@ -54,8 +54,8 @@ To use this project, follow these steps:
 1. **Setup:**
    - Clone the repository:
      ```
-     git clone <repository-url>
-     cd <repository-directory>
+     git clone https://github.com/chirag9127/chunking_expt.git
+     cd chunking_expt
      ```
    - Install the required dependencies:
      ```
