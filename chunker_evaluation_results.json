@@ -1,0 +1,4682 @@
+{
+    "RecursiveTokenChunker": {
+        "corpora_scores": {
+            "raw_articles/article_0.txt": {
+                "precision_omega_scores": [
+                    0.07180254300673149
+                ],
+                "iou_scores": [
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0
+                ]
+            },
+            "raw_articles/article_1.txt": {
+                "precision_omega_scores": [
+                    0.03508771929824561
+                ],
+                "iou_scores": [
+                    0.0027688047992616522
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0027688047992616522
+                ]
+            },
+            "raw_articles/article_2.txt": {
+                "precision_omega_scores": [
+                    0.059281587540818886,
+                    0.039939713639788994
+                ],
+                "iou_scores": [
+                    0.011988214975109214,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.011988214975109214,
+                    0.0
+                ]
+            },
+            "raw_articles/article_3.txt": {
+                "precision_omega_scores": [
+                    0.09375,
+                    0.0946969696969697,
+                    0.039299242424242424
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.011224604332697272,
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.011224604332697272,
+                    0.0
+                ]
+            },
+            "raw_articles/article_4.txt": {
+                "precision_omega_scores": [
+                    0.22299306243805747,
+                    0.12685827552031714
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "raw_articles/article_5.txt": {
+                "precision_omega_scores": [
+                    0.11063569682151589,
+                    0.08679706601466992
+                ],
+                "iou_scores": [
+                    0.014054977480975306,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.014054977480975306,
+                    0.0
+                ]
+            },
+            "raw_articles/article_6.txt": {
+                "precision_omega_scores": [
+                    0.16100278551532032
+                ],
+                "iou_scores": [
+                    0.0246418826739427
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0246418826739427
+                ]
+            },
+            "raw_articles/article_7.txt": {
+                "precision_omega_scores": [
+                    0.046055854973052424,
+                    0.09456148946594807,
+                    0.07986281234688879
+                ],
+                "iou_scores": [
+                    0.006754329237623051,
+                    0.0,
+                    0.009102077283895466
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.006754329237623051,
+                    0.0,
+                    0.009102077283895466
+                ]
+            },
+            "raw_articles/article_8.txt": {
+                "precision_omega_scores": [
+                    0.027386741745584847,
+                    0.04555925262349629,
+                    0.04988718977187265
+                ],
+                "iou_scores": [
+                    0.005679706990816922,
+                    0.009448484526779552,
+                    0.010526315789473684
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.005679706990816922,
+                    0.009448484526779552,
+                    0.010526315789473684
+                ]
+            },
+            "raw_articles/article_9.txt": {
+                "precision_omega_scores": [
+                    0.15011547344110854,
+                    0.04362329997433924,
+                    0.05115927419354839
+                ],
+                "iou_scores": [
+                    0.031085604973696796,
+                    0.0,
+                    0.01582722594729456
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.031085604973696796,
+                    0.0,
+                    0.01582722594729456
+                ]
+            },
+            "raw_articles/article_10.txt": {
+                "precision_omega_scores": [
+                    0.08062093139709564,
+                    0.11125352473724685
+                ],
+                "iou_scores": [
+                    0.0224,
+                    0.04283458349782866
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0224,
+                    0.04283458349782866
+                ]
+            },
+            "raw_articles/article_11.txt": {
+                "precision_omega_scores": [
+                    0.04481387784604265,
+                    0.21322732200939645
+                ],
+                "iou_scores": [
+                    0.008722566122678672,
+                    0.031684657107566724
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.008722566122678672,
+                    0.031684657107566724
+                ]
+            },
+            "raw_articles/article_12.txt": {
+                "precision_omega_scores": [
+                    0.04143646408839779,
+                    0.02826585179526356
+                ],
+                "iou_scores": [
+                    0.01453104359313078,
+                    0.0075458871515975525
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.01453104359313078,
+                    0.0075458871515975525
+                ]
+            },
+            "raw_articles/article_13.txt": {
+                "precision_omega_scores": [
+                    0.07815275310834814,
+                    0.0679708222811671,
+                    0.07612281146917026
+                ],
+                "iou_scores": [
+                    0.023527614391566726,
+                    0.011601584606677985,
+                    0.023957834211787255
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.023527614391566726,
+                    0.011601584606677985,
+                    0.023957834211787255
+                ]
+            },
+            "raw_articles/article_14.txt": {
+                "precision_omega_scores": [
+                    0.062062062062062065,
+                    0.038401660612350806
+                ],
+                "iou_scores": [
+                    0.016488265407885113,
+                    0.015913978494623657
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.016488265407885113,
+                    0.015913978494623657
+                ]
+            },
+            "raw_articles/article_15.txt": {
+                "precision_omega_scores": [
+                    0.0275986587567707,
+                    0.052875935001289655
+                ],
+                "iou_scores": [
+                    0.005849871521513313,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.005849871521513313,
+                    0.0
+                ]
+            },
+            "raw_articles/article_17.txt": {
+                "precision_omega_scores": [
+                    0.10542244640605296,
+                    0.0913032389696506,
+                    0.09614894159653149
+                ],
+                "iou_scores": [
+                    0.02276936485455932,
+                    0.024732297063903282,
+                    0.020553919965107404
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.02276936485455932,
+                    0.024732297063903282,
+                    0.020553919965107404
+                ]
+            },
+            "raw_articles/article_18.txt": {
+                "precision_omega_scores": [
+                    0.04643320363164721,
+                    0.08850692662904053
+                ],
+                "iou_scores": [
+                    0.01968763748350198,
+                    0.018855550090178717
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.01968763748350198,
+                    0.018855550090178717
+                ]
+            },
+            "raw_articles/article_19.txt": {
+                "precision_omega_scores": [
+                    0.06282985674792661,
+                    0.13161290322580646
+                ],
+                "iou_scores": [
+                    0.02130560763592978,
+                    0.03576939262168607
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.02130560763592978,
+                    0.03576939262168607
+                ]
+            },
+            "raw_articles/article_20.txt": {
+                "precision_omega_scores": [
+                    0.12300278975399442
+                ],
+                "iou_scores": [
+                    0.03427804085094353
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.03427804085094353
+                ]
+            },
+            "raw_articles/article_21.txt": {
+                "precision_omega_scores": [
+                    0.039343842112008205,
+                    0.06246864024084295,
+                    0.04967385850476668
+                ],
+                "iou_scores": [
+                    0.02776019531603219,
+                    0.015601503759398496,
+                    0.01239747041512742
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.02776019531603219,
+                    0.015601503759398496,
+                    0.01239747041512742
+                ]
+            },
+            "raw_articles/article_22.txt": {
+                "precision_omega_scores": [
+                    0.13206603301650827
+                ],
+                "iou_scores": [
+                    0.04856958881427652
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.04856958881427652
+                ]
+            },
+            "raw_articles/article_23.txt": {
+                "precision_omega_scores": [
+                    0.04809894640403115,
+                    0.06642235455794777,
+                    0.05130554283096656
+                ],
+                "iou_scores": [
+                    0.0203527815468114,
+                    0.02458460495083079,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0203527815468114,
+                    0.02458460495083079,
+                    0.0
+                ]
+            },
+            "raw_articles/article_24.txt": {
+                "precision_omega_scores": [
+                    0.3447098976109215,
+                    0.2593856655290102
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.016016859852476292
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.016016859852476292
+                ]
+            },
+            "raw_articles/article_25.txt": {
+                "precision_omega_scores": [
+                    0.08075117370892018,
+                    0.10985915492957747
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.006909176804062832
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.006909176804062832
+                ]
+            },
+            "raw_articles/article_26.txt": {
+                "precision_omega_scores": [
+                    0.1946795646916566
+                ],
+                "iou_scores": [
+                    0.0157796726453004
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0157796726453004
+                ]
+            },
+            "raw_articles/article_27.txt": {
+                "precision_omega_scores": [
+                    0.08378561736770691,
+                    0.15298507462686567
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.028338045868677348
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.028338045868677348
+                ]
+            },
+            "raw_articles/article_28.txt": {
+                "precision_omega_scores": [
+                    0.15870967741935485,
+                    0.12645161290322582,
+                    0.12258064516129032
+                ],
+                "iou_scores": [
+                    0.011160511750294892,
+                    0.007726878498777892,
+                    0.00794912559618442
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.011160511750294892,
+                    0.007726878498777892,
+                    0.00794912559618442
+                ]
+            },
+            "raw_articles/article_29.txt": {
+                "precision_omega_scores": [
+                    0.2302867383512545,
+                    0.07885304659498207
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.00580666446717255
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.00580666446717255
+                ]
+            },
+            "raw_articles/article_30.txt": {
+                "precision_omega_scores": [
+                    0.047619047619047616,
+                    0.07333333333333333,
+                    0.09904761904761905
+                ],
+                "iou_scores": [
+                    0.004989024146876871,
+                    0.007814878717141987,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.004989024146876871,
+                    0.007814878717141987,
+                    0.0
+                ]
+            },
+            "raw_articles/article_31.txt": {
+                "precision_omega_scores": [
+                    0.053156146179401995
+                ],
+                "iou_scores": [
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0
+                ]
+            },
+            "raw_articles/article_32.txt": {
+                "precision_omega_scores": [
+                    0.0821256038647343
+                ],
+                "iou_scores": [
+                    0.015306696679797411
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.015306696679797411
+                ]
+            },
+            "raw_articles/article_33.txt": {
+                "precision_omega_scores": [
+                    0.2442159383033419
+                ],
+                "iou_scores": [
+                    0.01711095100864553
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.01711095100864553
+                ]
+            },
+            "raw_articles/article_34.txt": {
+                "precision_omega_scores": [
+                    0.2544045102184637,
+                    0.080338266384778
+                ],
+                "iou_scores": [
+                    0.030765297426282597,
+                    0.013984298331697743
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.030765297426282597,
+                    0.013984298331697743
+                ]
+            },
+            "raw_articles/article_35.txt": {
+                "precision_omega_scores": [
+                    0.08338804990151018
+                ],
+                "iou_scores": [
+                    0.01125387682764732
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.01125387682764732
+                ]
+            },
+            "raw_articles/article_36.txt": {
+                "precision_omega_scores": [
+                    0.08990318118948824,
+                    0.21300138312586445
+                ],
+                "iou_scores": [
+                    0.011145404663923183,
+                    0.018494055482166448
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.011145404663923183,
+                    0.018494055482166448
+                ]
+            },
+            "raw_articles/article_37.txt": {
+                "precision_omega_scores": [
+                    0.08707607699358387
+                ],
+                "iou_scores": [
+                    0.011427884037050404
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.011427884037050404
+                ]
+            },
+            "raw_articles/article_38.txt": {
+                "precision_omega_scores": [
+                    0.12828282828282828,
+                    0.13636363636363635,
+                    0.11717171717171718
+                ],
+                "iou_scores": [
+                    0.008090717971586928,
+                    0.009934505850320113,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.008090717971586928,
+                    0.009934505850320113,
+                    0.0
+                ]
+            },
+            "raw_articles/article_39.txt": {
+                "precision_omega_scores": [
+                    0.03862660944206009,
+                    0.24307452204447913
+                ],
+                "iou_scores": [
+                    0.010177855453891231,
+                    0.08964028776978417
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.010177855453891231,
+                    0.08964028776978417
+                ]
+            },
+            "raw_articles/article_40.txt": {
+                "precision_omega_scores": [
+                    0.3260340632603406,
+                    0.40389294403892945
+                ],
+                "iou_scores": [
+                    0.026967196619038035,
+                    0.033407124169853086
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.026967196619038035,
+                    0.033407124169853086
+                ]
+            },
+            "raw_articles/article_41.txt": {
+                "precision_omega_scores": [
+                    0.15654205607476634
+                ],
+                "iou_scores": [
+                    0.010071401728673431
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.010071401728673431
+                ]
+            },
+            "raw_articles/article_43.txt": {
+                "precision_omega_scores": [
+                    0.32814070351758795,
+                    0.054271356783919596
+                ],
+                "iou_scores": [
+                    0.09638376383763837,
+                    0.012108980827447022
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.09638376383763837,
+                    0.012108980827447022
+                ]
+            },
+            "raw_articles/article_44.txt": {
+                "precision_omega_scores": [
+                    0.41887905604719766,
+                    0.2949852507374631,
+                    0.23303834808259588
+                ],
+                "iou_scores": [
+                    0.017781116954670672,
+                    0.0,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.017781116954670672,
+                    0.0,
+                    0.0
+                ]
+            },
+            "raw_articles/article_45.txt": {
+                "precision_omega_scores": [
+                    0.17695473251028807,
+                    0.06893004115226338,
+                    0.08333333333333333,
+                    0.06893004115226338
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.004302318114685674,
+                    0.005447941888619854,
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0,
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.004302318114685674,
+                    0.005447941888619854,
+                    0.0
+                ]
+            },
+            "raw_articles/article_46.txt": {
+                "precision_omega_scores": [
+                    0.21295279912184412,
+                    0.12843029637760703
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.008035714285714285
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.008035714285714285
+                ]
+            },
+            "raw_articles/article_47.txt": {
+                "precision_omega_scores": [
+                    0.0514018691588785,
+                    0.08618899273104881,
+                    0.08566978193146417,
+                    0.06542056074766354,
+                    0.06386292834890965,
+                    0.05763239875389408
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.034932076517881896,
+                    0.008307442928542482,
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.034932076517881896,
+                    0.008307442928542482,
+                    0.0
+                ]
+            },
+            "raw_articles/article_48.txt": {
+                "precision_omega_scores": [
+                    0.11614730878186968
+                ],
+                "iou_scores": [
+                    0.0057665260196905765
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0057665260196905765
+                ]
+            },
+            "raw_articles/article_49.txt": {
+                "precision_omega_scores": [
+                    0.05074365704286964,
+                    0.0699912510936133
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.005149330587023687
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.005149330587023687
+                ]
+            },
+            "raw_articles/article_16.txt": {
+                "precision_omega_scores": [
+                    0.05285678328718852,
+                    0.059699178167157696,
+                    0.050546101092202186
+                ],
+                "iou_scores": [
+                    0.019937339789233836,
+                    0.020966073081740456,
+                    0.010115386570426472
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.019937339789233836,
+                    0.020966073081740456,
+                    0.010115386570426472
+                ]
+            },
+            "raw_articles/article_42.txt": {
+                "precision_omega_scores": [
+                    0.12529550827423167,
+                    0.13947990543735225
+                ],
+                "iou_scores": [
+                    0.009410511363636364,
+                    0.017203674004956992
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.009410511363636364,
+                    0.017203674004956992
+                ]
+            }
+        },
+        "iou_mean": 0.013504666600244731,
+        "iou_std": 0.015505853408801534,
+        "recall_mean": 0.7358490566037735,
+        "recall_std": 0.4408800545489782,
+        "precision_omega_mean": 0.112190715430606,
+        "precision_omega_std": 0.08188380762048099,
+        "precision_mean": 0.013504666600244731,
+        "precision_std": 0.015505853408801534
+    },
+    "ClusterSemanticChunker": {
+        "corpora_scores": {
+            "raw_articles/article_0.txt": {
+                "precision_omega_scores": [
+                    0.22857142857142856
+                ],
+                "iou_scores": [
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0
+                ]
+            },
+            "raw_articles/article_1.txt": {
+                "precision_omega_scores": [
+                    0.039735099337748346
+                ],
+                "iou_scores": [
+                    0.004322766570605188
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.004322766570605188
+                ]
+            },
+            "raw_articles/article_2.txt": {
+                "precision_omega_scores": [
+                    0.14208308248043347,
+                    0.09572546658639373
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "raw_articles/article_3.txt": {
+                "precision_omega_scores": [
+                    0.20224719101123595,
+                    0.823045267489712,
+                    0.08478038815117467
+                ],
+                "iou_scores": [
+                    0.03945795137504982,
+                    0.05124263387138099,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.03945795137504982,
+                    0.05124263387138099,
+                    0.0
+                ]
+            },
+            "raw_articles/article_4.txt": {
+                "precision_omega_scores": [
+                    0.2767527675276753,
+                    0.15744157441574416
+                ],
+                "iou_scores": [
+                    0.05862428348097968,
+                    0.02994152046783626
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.05862428348097968,
+                    0.02994152046783626
+                ]
+            },
+            "raw_articles/article_5.txt": {
+                "precision_omega_scores": [
+                    0.1332842415316642,
+                    0.10456553755522828
+                ],
+                "iou_scores": [
+                    0.03293304221251819,
+                    0.02455472937921494
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.03293304221251819,
+                    0.02455472937921494
+                ]
+            },
+            "raw_articles/article_6.txt": {
+                "precision_omega_scores": [
+                    0.23864574731626756
+                ],
+                "iou_scores": [
+                    0.04618040569702201
+                ],
+                "recall_scores": [
+                    0.740484429065744
+                ],
+                "precision_scores": [
+                    0.046940118447027855
+                ]
+            },
+            "raw_articles/article_7.txt": {
+                "precision_omega_scores": [
+                    0.07692307692307693,
+                    0.1579378068739771,
+                    0.5563139931740614
+                ],
+                "iou_scores": [
+                    0.02525523911875336,
+                    0.0,
+                    0.04398273070696168
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.02525523911875336,
+                    0.0,
+                    0.04398273070696168
+                ]
+            },
+            "raw_articles/article_8.txt": {
+                "precision_omega_scores": [
+                    0.03641933287950987,
+                    0.11914323962516733,
+                    0.11142374788970175
+                ],
+                "iou_scores": [
+                    0.015590849482733498,
+                    0.0439940682155215,
+                    0.02599227256761503
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    0.7437185929648241
+                ],
+                "precision_scores": [
+                    0.015590849482733498,
+                    0.0439940682155215,
+                    0.026227184121920964
+                ]
+            },
+            "raw_articles/article_9.txt": {
+                "precision_omega_scores": [
+                    0.44150943396226416,
+                    0.3177570093457944,
+                    0.16776859504132233
+                ],
+                "iou_scores": [
+                    0.15423147904033746,
+                    0.04701327433628318,
+                    0.04205510669152683
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.15423147904033746,
+                    0.04701327433628318,
+                    0.04205510669152683
+                ]
+            },
+            "raw_articles/article_10.txt": {
+                "precision_omega_scores": [
+                    0.11528822055137844,
+                    0.32076866223207684
+                ],
+                "iou_scores": [
+                    0.02387942845958113,
+                    0.1032595764929812
+                ],
+                "recall_scores": [
+                    0.37888198757763975,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.02485231207985333,
+                    0.1032595764929812
+                ]
+            },
+            "raw_articles/article_11.txt": {
+                "precision_omega_scores": [
+                    0.2366412213740458,
+                    0.2880859375
+                ],
+                "iou_scores": [
+                    0.03276955602536998,
+                    0.13339362423694326
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.03276955602536998,
+                    0.13339362423694326
+                ]
+            },
+            "raw_articles/article_12.txt": {
+                "precision_omega_scores": [
+                    0.1437282229965157,
+                    0.14701986754966886
+                ],
+                "iou_scores": [
+                    0.0436046511627907,
+                    0.021910777733912357
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0436046511627907,
+                    0.021910777733912357
+                ]
+            },
+            "raw_articles/article_13.txt": {
+                "precision_omega_scores": [
+                    0.2779783393501805,
+                    0.14206514206514206,
+                    0.25380710659898476
+                ],
+                "iou_scores": [
+                    0.06188466947960619,
+                    0.03530222145686241,
+                    0.06457167455876023
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.06188466947960619,
+                    0.03530222145686241,
+                    0.06457167455876023
+                ]
+            },
+            "raw_articles/article_14.txt": {
+                "precision_omega_scores": [
+                    0.24361493123772102,
+                    0.25127334465195245
+                ],
+                "iou_scores": [
+                    0.058394160583941604,
+                    0.051648926888850116
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.058394160583941604,
+                    0.051648926888850116
+                ]
+            },
+            "raw_articles/article_15.txt": {
+                "precision_omega_scores": [
+                    0.4037735849056604,
+                    0.18647166361974407
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "raw_articles/article_17.txt": {
+                "precision_omega_scores": [
+                    0.5813630041724618,
+                    0.2753846153846154,
+                    0.235625
+                ],
+                "iou_scores": [
+                    0.08846560846560847,
+                    0.10133031418058307,
+                    0.09900210084033613
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.08846560846560847,
+                    0.10133031418058307,
+                    0.09900210084033613
+                ]
+            },
+            "raw_articles/article_18.txt": {
+                "precision_omega_scores": [
+                    0.36907216494845363,
+                    0.14489710205795883
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.05692130011549249
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.05692130011549249
+                ]
+            },
+            "raw_articles/article_19.txt": {
+                "precision_omega_scores": [
+                    0.19319938176197837,
+                    0.39596273291925466
+                ],
+                "iou_scores": [
+                    0.05587840858292356,
+                    0.07864302235929067
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.05587840858292356,
+                    0.07864302235929067
+                ]
+            },
+            "raw_articles/article_20.txt": {
+                "precision_omega_scores": [
+                    0.15309343434343434
+                ],
+                "iou_scores": [
+                    0.07539250738380227
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.07539250738380227
+                ]
+            },
+            "raw_articles/article_21.txt": {
+                "precision_omega_scores": [
+                    0.18241235888294713,
+                    0.2971360381861575,
+                    0.13836477987421383
+                ],
+                "iou_scores": [
+                    0.051796861818795344,
+                    0.038425925925925926,
+                    0.03916139240506329
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.051796861818795344,
+                    0.038425925925925926,
+                    0.03916139240506329
+                ]
+            },
+            "raw_articles/article_22.txt": {
+                "precision_omega_scores": [
+                    0.15808383233532936
+                ],
+                "iou_scores": [
+                    0.07318087318087318
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.07318087318087318
+                ]
+            },
+            "raw_articles/article_23.txt": {
+                "precision_omega_scores": [
+                    0.12,
+                    0.15409139213602552,
+                    0.06167400881057269
+                ],
+                "iou_scores": [
+                    0.031750831569398244,
+                    0.0,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.031750831569398244,
+                    0.0,
+                    0.0
+                ]
+            },
+            "raw_articles/article_24.txt": {
+                "precision_omega_scores": [
+                    0.3447098976109215,
+                    0.2593856655290102
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.027171969967822666
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.027171969967822666
+                ]
+            },
+            "raw_articles/article_25.txt": {
+                "precision_omega_scores": [
+                    0.08784473953013279,
+                    0.1195097037793667
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "raw_articles/article_26.txt": {
+                "precision_omega_scores": [
+                    0.2399403874813711
+                ],
+                "iou_scores": [
+                    0.03807046583116576
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.03807046583116576
+                ]
+            },
+            "raw_articles/article_27.txt": {
+                "precision_omega_scores": [
+                    0.17236566643405443,
+                    0.31472435450104674
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.09190951701650703
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.09190951701650703
+                ]
+            },
+            "raw_articles/article_28.txt": {
+                "precision_omega_scores": [
+                    0.4900398406374502,
+                    0.27605633802816903,
+                    0.3784860557768924
+                ],
+                "iou_scores": [
+                    0.036176470588235296,
+                    0.0415782774713619,
+                    0.02785923753665689
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.036176470588235296,
+                    0.0415782774713619,
+                    0.02785923753665689
+                ]
+            },
+            "raw_articles/article_29.txt": {
+                "precision_omega_scores": [
+                    0.3184634448574969,
+                    0.1090458488228005
+                ],
+                "iou_scores": [
+                    0.04781395348837209,
+                    0.02190689569330346
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.04781395348837209,
+                    0.02190689569330346
+                ]
+            },
+            "raw_articles/article_30.txt": {
+                "precision_omega_scores": [
+                    0.0684931506849315,
+                    0.10547945205479452,
+                    0.11040339702760085
+                ],
+                "iou_scores": [
+                    0.018188432157148052,
+                    0.03470031545741325,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.018188432157148052,
+                    0.03470031545741325,
+                    0.0
+                ]
+            },
+            "raw_articles/article_31.txt": {
+                "precision_omega_scores": [
+                    0.08492569002123142
+                ],
+                "iou_scores": [
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0
+                ]
+            },
+            "raw_articles/article_32.txt": {
+                "precision_omega_scores": [
+                    0.17458279845956354
+                ],
+                "iou_scores": [
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0
+                ]
+            },
+            "raw_articles/article_33.txt": {
+                "precision_omega_scores": [
+                    0.304
+                ],
+                "iou_scores": [
+                    0.039773916684111364
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.039773916684111364
+                ]
+            },
+            "raw_articles/article_34.txt": {
+                "precision_omega_scores": [
+                    0.4197674418604651,
+                    0.0976027397260274
+                ],
+                "iou_scores": [
+                    0.07131568549980245,
+                    0.021068194418776567
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.07131568549980245,
+                    0.021068194418776567
+                ]
+            },
+            "raw_articles/article_35.txt": {
+                "precision_omega_scores": [
+                    0.10023677979479084
+                ],
+                "iou_scores": [
+                    0.028241049588614633
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.028241049588614633
+                ]
+            },
+            "raw_articles/article_36.txt": {
+                "precision_omega_scores": [
+                    0.091164095371669,
+                    0.21300138312586445
+                ],
+                "iou_scores": [
+                    0.019005847953216373,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.019005847953216373,
+                    0.0
+                ]
+            },
+            "raw_articles/article_37.txt": {
+                "precision_omega_scores": [
+                    0.10292524377031419
+                ],
+                "iou_scores": [
+                    0.023335789732252518
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.023335789732252518
+                ]
+            },
+            "raw_articles/article_38.txt": {
+                "precision_omega_scores": [
+                    0.4379310344827586,
+                    0.19285714285714287,
+                    0.7160493827160493
+                ],
+                "iou_scores": [
+                    0.037551744529863984,
+                    0.039519906323185014,
+                    0.035140866404119966
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.037551744529863984,
+                    0.039519906323185014,
+                    0.035140866404119966
+                ]
+            },
+            "raw_articles/article_39.txt": {
+                "precision_omega_scores": [
+                    0.04782608695652174,
+                    0.2864367816091954
+                ],
+                "iou_scores": [
+                    0.012213740458015267,
+                    0.024748322147651006
+                ],
+                "recall_scores": [
+                    0.48484848484848486,
+                    0.18940609951845908
+                ],
+                "precision_scores": [
+                    0.01237432327919567,
+                    0.02768003753225428
+                ]
+            },
+            "raw_articles/article_40.txt": {
+                "precision_omega_scores": [
+                    0.7570621468926554,
+                    0.9378531073446328
+                ],
+                "iou_scores": [
+                    0.06085376930063579,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.06085376930063579,
+                    0.0
+                ]
+            },
+            "raw_articles/article_41.txt": {
+                "precision_omega_scores": [
+                    0.30248306997742663
+                ],
+                "iou_scores": [
+                    0.052901697591788394
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.052901697591788394
+                ]
+            },
+            "raw_articles/article_43.txt": {
+                "precision_omega_scores": [
+                    0.38276670574443145,
+                    0.09278350515463918
+                ],
+                "iou_scores": [
+                    0.0394578313253012,
+                    0.0
+                ],
+                "recall_scores": [
+                    0.2006125574272588,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.04681915654038599,
+                    0.0
+                ]
+            },
+            "raw_articles/article_44.txt": {
+                "precision_omega_scores": [
+                    0.41887905604719766,
+                    0.2949852507374631,
+                    0.23303834808259588
+                ],
+                "iou_scores": [
+                    0.04733333333333333,
+                    0.0,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.04733333333333333,
+                    0.0,
+                    0.0
+                ]
+            },
+            "raw_articles/article_45.txt": {
+                "precision_omega_scores": [
+                    0.1787941787941788,
+                    0.06964656964656965,
+                    0.0841995841995842,
+                    0.06964656964656965
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.02110236220472441,
+                    0.02028042063094642,
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0,
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.02110236220472441,
+                    0.02028042063094642,
+                    0.0
+                ]
+            },
+            "raw_articles/article_46.txt": {
+                "precision_omega_scores": [
+                    0.3421516754850088,
+                    0.20634920634920634
+                ],
+                "iou_scores": [
+                    0.03249037012225758,
+                    0.032819074333800845
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.03249037012225758,
+                    0.032819074333800845
+                ]
+            },
+            "raw_articles/article_47.txt": {
+                "precision_omega_scores": [
+                    0.10498409331919406,
+                    0.20393120393120392,
+                    0.2017114914425428,
+                    0.15403422982885084,
+                    0.1511056511056511,
+                    0.1356968215158924
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.03787195671776375,
+                    0.0,
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.03787195671776375,
+                    0.0,
+                    0.0
+                ]
+            },
+            "raw_articles/article_48.txt": {
+                "precision_omega_scores": [
+                    0.119533527696793
+                ],
+                "iou_scores": [
+                    0.02040816326530612
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.02040816326530612
+                ]
+            },
+            "raw_articles/article_49.txt": {
+                "precision_omega_scores": [
+                    0.07601572739187418,
+                    0.13961605584642234
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.016642396505096736
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.016642396505096736
+                ]
+            },
+            "raw_articles/article_16.txt": {
+                "precision_omega_scores": [
+                    0.16055045871559634,
+                    0.37090558766859344,
+                    0.15214067278287463
+                ],
+                "iou_scores": [
+                    0.04676018704074816,
+                    0.06991102233520974,
+                    0.051863434975241075
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.04676018704074816,
+                    0.06991102233520974,
+                    0.051863434975241075
+                ]
+            },
+            "raw_articles/article_42.txt": {
+                "precision_omega_scores": [
+                    0.1364221364221364,
+                    0.15186615186615188
+                ],
+                "iou_scores": [
+                    0.019894894894894894,
+                    0.03559577677224736
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.019894894894894894,
+                    0.03559577677224736
+                ]
+            }
+        },
+        "iou_mean": 0.032541679786970965,
+        "iou_std": 0.030508586909941068,
+        "recall_mean": 0.6862070957679473,
+        "recall_std": 0.45186077877401615,
+        "precision_omega_mean": 0.22902224004980778,
+        "precision_omega_std": 0.1631536425938116,
+        "precision_mean": 0.03265886027136203,
+        "precision_std": 0.030526103094538327
+    },
+    "KamradtModifiedChunker": {
+        "corpora_scores": {
+            "raw_articles/article_0.txt": {
+                "precision_omega_scores": [
+                    0.10762331838565023
+                ],
+                "iou_scores": [
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0
+                ]
+            },
+            "raw_articles/article_1.txt": {
+                "precision_omega_scores": [
+                    0.03508771929824561
+                ],
+                "iou_scores": [
+                    0.002698246140008994
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.002698246140008994
+                ]
+            },
+            "raw_articles/article_2.txt": {
+                "precision_omega_scores": [
+                    0.04002034933016788,
+                    0.16545265348595214
+                ],
+                "iou_scores": [
+                    0.027429102742910275,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.027429102742910275,
+                    0.0
+                ]
+            },
+            "raw_articles/article_3.txt": {
+                "precision_omega_scores": [
+                    0.15517241379310345,
+                    0.5347593582887701,
+                    0.06504702194357367
+                ],
+                "iou_scores": [
+                    0.034114403859407304,
+                    0.046948356807511735,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.034114403859407304,
+                    0.046948356807511735,
+                    0.0
+                ]
+            },
+            "raw_articles/article_4.txt": {
+                "precision_omega_scores": [
+                    0.34615384615384615,
+                    0.3565459610027855
+                ],
+                "iou_scores": [
+                    0.03987240829346093,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.03987240829346093,
+                    0.0
+                ]
+            },
+            "raw_articles/article_5.txt": {
+                "precision_omega_scores": [
+                    0.16884328358208955,
+                    0.13246268656716417
+                ],
+                "iou_scores": [
+                    0.034016162375493326,
+                    0.02026255707762557
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.034016162375493326,
+                    0.02026255707762557
+                ]
+            },
+            "raw_articles/article_6.txt": {
+                "precision_omega_scores": [
+                    0.1719214753123141
+                ],
+                "iou_scores": [
+                    0.02909189777052746
+                ],
+                "recall_scores": [
+                    0.740484429065744
+                ],
+                "precision_scores": [
+                    0.029391567092432357
+                ]
+            },
+            "raw_articles/article_7.txt": {
+                "precision_omega_scores": [
+                    0.07568438003220612,
+                    0.15539452495974235,
+                    0.20400500625782228
+                ],
+                "iou_scores": [
+                    0.008767838821005503,
+                    0.0,
+                    0.012318621523579203
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.008767838821005503,
+                    0.0,
+                    0.012318621523579203
+                ]
+            },
+            "raw_articles/article_8.txt": {
+                "precision_omega_scores": [
+                    0.03913679590343819,
+                    0.06510607168983175,
+                    0.05715106260769673
+                ],
+                "iou_scores": [
+                    0.010170135918638913,
+                    0.01630932746930548,
+                    0.020176416911690156
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.010170135918638913,
+                    0.01630932746930548,
+                    0.020176416911690156
+                ]
+            },
+            "raw_articles/article_9.txt": {
+                "precision_omega_scores": [
+                    0.22362385321100917,
+                    0.0846613545816733,
+                    0.0775993883792049
+                ],
+                "iou_scores": [
+                    0.04821958456973294,
+                    0.0,
+                    0.019138304892995193
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.04821958456973294,
+                    0.0,
+                    0.019138304892995193
+                ]
+            },
+            "raw_articles/article_10.txt": {
+                "precision_omega_scores": [
+                    0.05082872928176796,
+                    0.32076866223207684
+                ],
+                "iou_scores": [
+                    0.03912039849350018,
+                    0.050307175147791816
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.03912039849350018,
+                    0.050307175147791816
+                ]
+            },
+            "raw_articles/article_11.txt": {
+                "precision_omega_scores": [
+                    0.10954063604240283,
+                    0.21322732200939645
+                ],
+                "iou_scores": [
+                    0.027524972253052164,
+                    0.11534701857282502
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.027524972253052164,
+                    0.11534701857282502
+                ]
+            },
+            "raw_articles/article_12.txt": {
+                "precision_omega_scores": [
+                    0.2131782945736434,
+                    0.05709876543209876
+                ],
+                "iou_scores": [
+                    0.014621178555604785,
+                    0.016335540838852098
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.014621178555604785,
+                    0.016335540838852098
+                ]
+            },
+            "raw_articles/article_13.txt": {
+                "precision_omega_scores": [
+                    0.08722741433021806,
+                    0.05805720758991787,
+                    0.2147458840372226
+                ],
+                "iou_scores": [
+                    0.01993269479679006,
+                    0.02988773873742528,
+                    0.03359086328518643
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.01993269479679006,
+                    0.02988773873742528,
+                    0.03359086328518643
+                ]
+            },
+            "raw_articles/article_14.txt": {
+                "precision_omega_scores": [
+                    0.12156862745098039,
+                    0.1450980392156863
+                ],
+                "iou_scores": [
+                    0.03447796468789101,
+                    0.04912047792897444
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.03447796468789101,
+                    0.04912047792897444
+                ]
+            },
+            "raw_articles/article_15.txt": {
+                "precision_omega_scores": [
+                    0.047471162377994675,
+                    0.09094942324755989
+                ],
+                "iou_scores": [
+                    0.006924669945638105,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.006924669945638105,
+                    0.0
+                ]
+            },
+            "raw_articles/article_17.txt": {
+                "precision_omega_scores": [
+                    0.18001722652885443,
+                    0.26876876876876876,
+                    0.12280130293159609
+                ],
+                "iou_scores": [
+                    0.049176470588235294,
+                    0.05704270235818993,
+                    0.053818700927908636
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.049176470588235294,
+                    0.05704270235818993,
+                    0.053818700927908636
+                ]
+            },
+            "raw_articles/article_18.txt": {
+                "precision_omega_scores": [
+                    0.06842507645259939,
+                    0.13877715205148833
+                ],
+                "iou_scores": [
+                    0.020710401480967255,
+                    0.030650319829424306
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.020710401480967255,
+                    0.030650319829424306
+                ]
+            },
+            "raw_articles/article_19.txt": {
+                "precision_omega_scores": [
+                    0.05314625850340136,
+                    0.11583011583011583
+                ],
+                "iou_scores": [
+                    0.01875891048247918,
+                    0.026996982690169924
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.01875891048247918,
+                    0.026996982690169924
+                ]
+            },
+            "raw_articles/article_20.txt": {
+                "precision_omega_scores": [
+                    0.13265864332603938
+                ],
+                "iou_scores": [
+                    0.05044726440607447
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.05044726440607447
+                ]
+            },
+            "raw_articles/article_21.txt": {
+                "precision_omega_scores": [
+                    0.06437408261690082,
+                    0.052212203816313696,
+                    0.04151813797441812
+                ],
+                "iou_scores": [
+                    0.03535644362547507,
+                    0.02504526252263126,
+                    0.017266939914537368
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.03535644362547507,
+                    0.02504526252263126,
+                    0.017266939914537368
+                ]
+            },
+            "raw_articles/article_22.txt": {
+                "precision_omega_scores": [
+                    0.07871198568872988
+                ],
+                "iou_scores": [
+                    0.03914590747330961
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.03914590747330961
+                ]
+            },
+            "raw_articles/article_23.txt": {
+                "precision_omega_scores": [
+                    0.12,
+                    0.3598014888337469,
+                    0.08763693270735524
+                ],
+                "iou_scores": [
+                    0.024165707710011506,
+                    0.0,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.024165707710011506,
+                    0.0,
+                    0.0
+                ]
+            },
+            "raw_articles/article_24.txt": {
+                "precision_omega_scores": [
+                    0.3447098976109215,
+                    0.2593856655290102
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.040169133192389
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.040169133192389
+                ]
+            },
+            "raw_articles/article_25.txt": {
+                "precision_omega_scores": [
+                    0.08784473953013279,
+                    0.1195097037793667
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "raw_articles/article_26.txt": {
+                "precision_omega_scores": [
+                    0.2399403874813711
+                ],
+                "iou_scores": [
+                    0.040842212075088785
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.040842212075088785
+                ]
+            },
+            "raw_articles/article_27.txt": {
+                "precision_omega_scores": [
+                    0.2578288100208768,
+                    0.25830469644902637
+                ],
+                "iou_scores": [
+                    0.05654761904761905,
+                    0.10841346153846154
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.05654761904761905,
+                    0.10841346153846154
+                ]
+            },
+            "raw_articles/article_28.txt": {
+                "precision_omega_scores": [
+                    0.15870967741935485,
+                    0.12645161290322582,
+                    0.12258064516129032
+                ],
+                "iou_scores": [
+                    0.016042780748663103,
+                    0.014932195642236782,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.016042780748663103,
+                    0.014932195642236782,
+                    0.0
+                ]
+            },
+            "raw_articles/article_29.txt": {
+                "precision_omega_scores": [
+                    0.2302867383512545,
+                    0.07885304659498207
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.016206261510128914
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.016206261510128914
+                ]
+            },
+            "raw_articles/article_30.txt": {
+                "precision_omega_scores": [
+                    0.059665871121718374,
+                    0.09188544152744631,
+                    0.09904761904761905
+                ],
+                "iou_scores": [
+                    0.014232849416453175,
+                    0.015833847419288505,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.014232849416453175,
+                    0.015833847419288505,
+                    0.0
+                ]
+            },
+            "raw_articles/article_31.txt": {
+                "precision_omega_scores": [
+                    0.05673758865248227
+                ],
+                "iou_scores": [
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0
+                ]
+            },
+            "raw_articles/article_32.txt": {
+                "precision_omega_scores": [
+                    0.0821256038647343
+                ],
+                "iou_scores": [
+                    0.01762571280456195
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.01762571280456195
+                ]
+            },
+            "raw_articles/article_33.txt": {
+                "precision_omega_scores": [
+                    0.2442159383033419
+                ],
+                "iou_scores": [
+                    0.014324487334137515
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.014324487334137515
+                ]
+            },
+            "raw_articles/article_34.txt": {
+                "precision_omega_scores": [
+                    0.2865079365079365,
+                    0.09047619047619047
+                ],
+                "iou_scores": [
+                    0.024489519028559798,
+                    0.011072261072261072
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.024489519028559798,
+                    0.011072261072261072
+                ]
+            },
+            "raw_articles/article_35.txt": {
+                "precision_omega_scores": [
+                    0.20717781402936378
+                ],
+                "iou_scores": [
+                    0.0298192063864757
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0298192063864757
+                ]
+            },
+            "raw_articles/article_36.txt": {
+                "precision_omega_scores": [
+                    0.08990318118948824,
+                    0.21300138312586445
+                ],
+                "iou_scores": [
+                    0.017078297425118235,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.017078297425118235,
+                    0.0
+                ]
+            },
+            "raw_articles/article_37.txt": {
+                "precision_omega_scores": [
+                    0.08707607699358387
+                ],
+                "iou_scores": [
+                    0.019895287958115182
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.019895287958115182
+                ]
+            },
+            "raw_articles/article_38.txt": {
+                "precision_omega_scores": [
+                    0.27078891257995735,
+                    0.13636363636363635,
+                    0.24733475479744135
+                ],
+                "iou_scores": [
+                    0.018789761799082705,
+                    0.024585685667455837,
+                    0.023610828414410746
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.018789761799082705,
+                    0.024585685667455837,
+                    0.023610828414410746
+                ]
+            },
+            "raw_articles/article_39.txt": {
+                "precision_omega_scores": [
+                    0.04893722194760257,
+                    0.24307452204447913
+                ],
+                "iou_scores": [
+                    0.02311463927153864,
+                    0.0790184601530842
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.5634028892455859
+                ],
+                "precision_scores": [
+                    0.02311463927153864,
+                    0.0841726618705036
+                ]
+            },
+            "raw_articles/article_40.txt": {
+                "precision_omega_scores": [
+                    0.42948717948717946,
+                    0.532051282051282
+                ],
+                "iou_scores": [
+                    0.04346415828738242,
+                    0.06535433070866142
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.04346415828738242,
+                    0.06535433070866142
+                ]
+            },
+            "raw_articles/article_41.txt": {
+                "precision_omega_scores": [
+                    0.15654205607476634
+                ],
+                "iou_scores": [
+                    0.016076784643071385
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.016076784643071385
+                ]
+            },
+            "raw_articles/article_43.txt": {
+                "precision_omega_scores": [
+                    0.32814070351758795,
+                    0.11960132890365449
+                ],
+                "iou_scores": [
+                    0.1507386888273315,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.1507386888273315,
+                    0.0
+                ]
+            },
+            "raw_articles/article_44.txt": {
+                "precision_omega_scores": [
+                    0.41887905604719766,
+                    0.2949852507374631,
+                    0.23303834808259588
+                ],
+                "iou_scores": [
+                    0.03896816684961581,
+                    0.0,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.03896816684961581,
+                    0.0,
+                    0.0
+                ]
+            },
+            "raw_articles/article_45.txt": {
+                "precision_omega_scores": [
+                    0.1787941787941788,
+                    0.06964656964656965,
+                    0.0841995841995842,
+                    0.06964656964656965
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.011760575741618396,
+                    0.01744186046511628,
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0,
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.011760575741618396,
+                    0.01744186046511628,
+                    0.0
+                ]
+            },
+            "raw_articles/article_46.txt": {
+                "precision_omega_scores": [
+                    0.254259501965924,
+                    0.15334207077326342
+                ],
+                "iou_scores": [
+                    0.018873431267633037,
+                    0.011382430197490028
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.018873431267633037,
+                    0.011382430197490028
+                ]
+            },
+            "raw_articles/article_47.txt": {
+                "precision_omega_scores": [
+                    0.0514018691588785,
+                    0.20393120393120392,
+                    0.14838129496402877,
+                    0.11330935251798561,
+                    0.1511056511056511,
+                    0.09982014388489209
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.0,
+                    0.04480043442845506,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.0,
+                    0.04480043442845506,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "raw_articles/article_48.txt": {
+                "precision_omega_scores": [
+                    0.11614730878186968
+                ],
+                "iou_scores": [
+                    0.008983347940403156
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.008983347940403156
+                ]
+            },
+            "raw_articles/article_49.txt": {
+                "precision_omega_scores": [
+                    0.05074365704286964,
+                    0.0699912510936133
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.007797270955165692
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.007797270955165692
+                ]
+            },
+            "raw_articles/article_16.txt": {
+                "precision_omega_scores": [
+                    0.048,
+                    0.08546059933407325,
+                    0.04548571428571429
+                ],
+                "iou_scores": [
+                    0.013590473725084132,
+                    0.041194093729937944,
+                    0.013880170189021414
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.013590473725084132,
+                    0.041194093729937944,
+                    0.013880170189021414
+                ]
+            },
+            "raw_articles/article_42.txt": {
+                "precision_omega_scores": [
+                    0.12679425837320574,
+                    0.14114832535885166
+                ],
+                "iou_scores": [
+                    0.010305269298075053,
+                    0.03761555626394644
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.010305269298075053,
+                    0.03761555626394644
+                ]
+            }
+        },
+        "iou_mean": 0.0229639398476413,
+        "iou_std": 0.025014309129806712,
+        "recall_mean": 0.7292819558331257,
+        "recall_std": 0.4396547731029882,
+        "precision_omega_mean": 0.15555614803567863,
+        "precision_omega_std": 0.10546964227969383,
+        "precision_mean": 0.023015391461219833,
+        "precision_std": 0.025128676471808126
+    },
+    "NaiveChunker": {
+        "corpora_scores": {
+            "raw_articles/article_0.txt": {
+                "precision_omega_scores": [
+                    0.256
+                ],
+                "iou_scores": [
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0
+                ]
+            },
+            "raw_articles/article_1.txt": {
+                "precision_omega_scores": [
+                    0.03508771929824561
+                ],
+                "iou_scores": [
+                    0.005123825789923143
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.005123825789923143
+                ]
+            },
+            "raw_articles/article_2.txt": {
+                "precision_omega_scores": [
+                    0.31466666666666665,
+                    0.212
+                ],
+                "iou_scores": [
+                    0.06293333333333333,
+                    0.0424
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.06293333333333333,
+                    0.0424
+                ]
+            },
+            "raw_articles/article_3.txt": {
+                "precision_omega_scores": [
+                    0.264,
+                    0.32679738562091504,
+                    0.11066666666666666
+                ],
+                "iou_scores": [
+                    0.07385303991048116,
+                    0.055386319579063974,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.07385303991048116,
+                    0.055386319579063974,
+                    0.0
+                ]
+            },
+            "raw_articles/article_4.txt": {
+                "precision_omega_scores": [
+                    0.3,
+                    0.4942084942084942
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.03927585148818656
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.03927585148818656
+                ]
+            },
+            "raw_articles/article_5.txt": {
+                "precision_omega_scores": [
+                    0.24133333333333334,
+                    0.18933333333333333
+                ],
+                "iou_scores": [
+                    0.05553850874501381,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.05553850874501381,
+                    0.0
+                ]
+            },
+            "raw_articles/article_6.txt": {
+                "precision_omega_scores": [
+                    0.19266666666666668
+                ],
+                "iou_scores": [
+                    0.09215561224489796
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.09215561224489796
+                ]
+            },
+            "raw_articles/article_7.txt": {
+                "precision_omega_scores": [
+                    0.12533333333333332,
+                    0.12866666666666668,
+                    0.30129390018484287
+                ],
+                "iou_scores": [
+                    0.028101644245142002,
+                    0.02896659707724426,
+                    0.04603219429539678
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.5751295336787565,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.028101644245142002,
+                    0.0296,
+                    0.04603219429539678
+                ]
+            },
+            "raw_articles/article_8.txt": {
+                "precision_omega_scores": [
+                    0.07133333333333333,
+                    0.11866666666666667,
+                    0.2653333333333333
+                ],
+                "iou_scores": [
+                    0.01366622864651774,
+                    0.047466666666666664,
+                    0.053066666666666665
+                ],
+                "recall_scores": [
+                    0.48598130841121495,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.013866666666666666,
+                    0.047466666666666664,
+                    0.053066666666666665
+                ]
+            },
+            "raw_articles/article_9.txt": {
+                "precision_omega_scores": [
+                    0.78,
+                    0.22666666666666666,
+                    0.13533333333333333
+                ],
+                "iou_scores": [
+                    0.156,
+                    0.04533333333333334,
+                    0.05413333333333333
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.156,
+                    0.04533333333333334,
+                    0.05413333333333333
+                ]
+            },
+            "raw_articles/article_10.txt": {
+                "precision_omega_scores": [
+                    0.21466666666666667,
+                    0.28933333333333333
+                ],
+                "iou_scores": [
+                    0.032004197271773345,
+                    0.12974588938714499
+                ],
+                "recall_scores": [
+                    0.37888198757763975,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.033776301218161685,
+                    0.12974588938714499
+                ]
+            },
+            "raw_articles/article_11.txt": {
+                "precision_omega_scores": [
+                    0.0978689818468824,
+                    0.26222222222222225
+                ],
+                "iou_scores": [
+                    0.03525732158089281,
+                    0.15733333333333333
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.03525732158089281,
+                    0.15733333333333333
+                ]
+            },
+            "raw_articles/article_12.txt": {
+                "precision_omega_scores": [
+                    0.22,
+                    0.074
+                ],
+                "iou_scores": [
+                    0.04691498436167188,
+                    0.0296
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.04691498436167188,
+                    0.0296
+                ]
+            },
+            "raw_articles/article_13.txt": {
+                "precision_omega_scores": [
+                    0.4106666666666667,
+                    0.2733333333333333,
+                    0.4
+                ],
+                "iou_scores": [
+                    0.08213333333333334,
+                    0.05466666666666667,
+                    0.08
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.08213333333333334,
+                    0.05466666666666667,
+                    0.08
+                ]
+            },
+            "raw_articles/article_14.txt": {
+                "precision_omega_scores": [
+                    0.33066666666666666,
+                    0.19733333333333333
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.007721046077210461
+                ],
+                "recall_scores": [
+                    0.0,
+                    0.10472972972972973
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.008266666666666667
+                ]
+            },
+            "raw_articles/article_15.txt": {
+                "precision_omega_scores": [
+                    0.14266666666666666,
+                    0.2733333333333333
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.05466666666666667
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.05466666666666667
+                ]
+            },
+            "raw_articles/article_17.txt": {
+                "precision_omega_scores": [
+                    0.2786666666666667,
+                    0.23866666666666667,
+                    0.5026666666666667
+                ],
+                "iou_scores": [
+                    0.10939579451690179,
+                    0.011467889908256881,
+                    0.10440321240653559
+                ],
+                "recall_scores": [
+                    0.9832535885167464,
+                    0.12569832402234637,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.1096,
+                    0.012461921905289393,
+                    0.10440321240653559
+                ]
+            },
+            "raw_articles/article_18.txt": {
+                "precision_omega_scores": [
+                    0.11933333333333333,
+                    0.46
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.092
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.092
+                ]
+            },
+            "raw_articles/article_19.txt": {
+                "precision_omega_scores": [
+                    0.1111111111111111,
+                    0.34
+                ],
+                "iou_scores": [
+                    0.06666666666666667,
+                    0.08756701557314271
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.6725490196078432
+                ],
+                "precision_scores": [
+                    0.06666666666666667,
+                    0.09146666666666667
+                ]
+            },
+            "raw_articles/article_20.txt": {
+                "precision_omega_scores": [
+                    0.3233333333333333
+                ],
+                "iou_scores": [
+                    0.07569215138430277
+                ],
+                "recall_scores": [
+                    0.6144329896907217
+                ],
+                "precision_scores": [
+                    0.07946666666666667
+                ]
+            },
+            "raw_articles/article_21.txt": {
+                "precision_omega_scores": [
+                    0.13644444444444445,
+                    0.166,
+                    0.264
+                ],
+                "iou_scores": [
+                    0.05212655601659751,
+                    0.0664,
+                    0.0528
+                ],
+                "recall_scores": [
+                    0.6547231270358306,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0536,
+                    0.0664,
+                    0.0528
+                ]
+            },
+            "raw_articles/article_22.txt": {
+                "precision_omega_scores": [
+                    0.23466666666666666
+                ],
+                "iou_scores": [
+                    0.03935860058309038
+                ],
+                "recall_scores": [
+                    0.3068181818181818
+                ],
+                "precision_scores": [
+                    0.0432
+                ]
+            },
+            "raw_articles/article_23.txt": {
+                "precision_omega_scores": [
+                    0.14,
+                    0.19333333333333333,
+                    0.14933333333333335
+                ],
+                "iou_scores": [
+                    0.032397408207343416,
+                    0.0,
+                    0.0352755905511811
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.032397408207343416,
+                    0.0,
+                    0.0352755905511811
+                ]
+            },
+            "raw_articles/article_24.txt": {
+                "precision_omega_scores": [
+                    0.3447098976109215,
+                    0.2593856655290102
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.026722925457102673
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.026722925457102673
+                ]
+            },
+            "raw_articles/article_25.txt": {
+                "precision_omega_scores": [
+                    0.08075117370892018,
+                    0.156
+                ],
+                "iou_scores": [
+                    0.012503721345638583,
+                    0.0
+                ],
+                "recall_scores": [
+                    0.4883720930232558,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.012669683257918552,
+                    0.0
+                ]
+            },
+            "raw_articles/article_26.txt": {
+                "precision_omega_scores": [
+                    0.21466666666666667
+                ],
+                "iou_scores": [
+                    0.049401656949984656
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.049401656949984656
+                ]
+            },
+            "raw_articles/article_27.txt": {
+                "precision_omega_scores": [
+                    0.16466666666666666,
+                    0.31146408839779005
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "raw_articles/article_28.txt": {
+                "precision_omega_scores": [
+                    0.164,
+                    0.13066666666666665,
+                    0.12258064516129032
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.02660874287265816,
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.02660874287265816,
+                    0.0
+                ]
+            },
+            "raw_articles/article_29.txt": {
+                "precision_omega_scores": [
+                    0.3426666666666667,
+                    0.11733333333333333
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.02806122448979592
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.02806122448979592
+                ]
+            },
+            "raw_articles/article_30.txt": {
+                "precision_omega_scores": [
+                    0.06666666666666667,
+                    0.10266666666666667,
+                    0.09904761904761905
+                ],
+                "iou_scores": [
+                    0.015151515151515152,
+                    0.020533333333333334,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.015151515151515152,
+                    0.020533333333333334,
+                    0.0
+                ]
+            },
+            "raw_articles/article_31.txt": {
+                "precision_omega_scores": [
+                    0.10666666666666667
+                ],
+                "iou_scores": [
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0
+                ]
+            },
+            "raw_articles/article_32.txt": {
+                "precision_omega_scores": [
+                    0.18133333333333335
+                ],
+                "iou_scores": [
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0
+                ]
+            },
+            "raw_articles/article_33.txt": {
+                "precision_omega_scores": [
+                    0.25333333333333335
+                ],
+                "iou_scores": [
+                    0.050666666666666665
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.050666666666666665
+                ]
+            },
+            "raw_articles/article_34.txt": {
+                "precision_omega_scores": [
+                    0.2544045102184637,
+                    0.17040358744394618
+                ],
+                "iou_scores": [
+                    0.07140995569455304,
+                    0.03107113654946852
+                ],
+                "recall_scores": [
+                    0.7590027700831025,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.07306666666666667,
+                    0.03107113654946852
+                ]
+            },
+            "raw_articles/article_35.txt": {
+                "precision_omega_scores": [
+                    0.16933333333333334
+                ],
+                "iou_scores": [
+                    0.038012571086501044
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.038012571086501044
+                ]
+            },
+            "raw_articles/article_36.txt": {
+                "precision_omega_scores": [
+                    0.08990318118948824,
+                    0.21300138312586445
+                ],
+                "iou_scores": [
+                    0.0174590384098845,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0174590384098845,
+                    0.0
+                ]
+            },
+            "raw_articles/article_37.txt": {
+                "precision_omega_scores": [
+                    0.12666666666666668
+                ],
+                "iou_scores": [
+                    0.028666264333132168
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.028666264333132168
+                ]
+            },
+            "raw_articles/article_38.txt": {
+                "precision_omega_scores": [
+                    0.12828282828282828,
+                    0.18,
+                    0.48333333333333334
+                ],
+                "iou_scores": [
+                    0.04486047333097845,
+                    0.047686329918756626,
+                    0.044173648134044174
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.04486047333097845,
+                    0.047686329918756626,
+                    0.044173648134044174
+                ]
+            },
+            "raw_articles/article_39.txt": {
+                "precision_omega_scores": [
+                    0.066,
+                    0.2768888888888889
+                ],
+                "iou_scores": [
+                    0.01386481802426343,
+                    0.07938257993384785
+                ],
+                "recall_scores": [
+                    0.48484848484848486,
+                    0.4622792937399679
+                ],
+                "precision_scores": [
+                    0.014072119613016711,
+                    0.08745824476161555
+                ]
+            },
+            "raw_articles/article_40.txt": {
+                "precision_omega_scores": [
+                    0.3260340632603406,
+                    0.40389294403892945
+                ],
+                "iou_scores": [
+                    0.04842790025298157,
+                    0.056194989844278946
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.04842790025298157,
+                    0.056194989844278946
+                ]
+            },
+            "raw_articles/article_41.txt": {
+                "precision_omega_scores": [
+                    0.17866666666666667
+                ],
+                "iou_scores": [
+                    0.03573333333333333
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.03573333333333333
+                ]
+            },
+            "raw_articles/article_43.txt": {
+                "precision_omega_scores": [
+                    0.43533333333333335,
+                    0.144
+                ],
+                "iou_scores": [
+                    0.11092380310182064,
+                    0.0
+                ],
+                "recall_scores": [
+                    0.5038284839203675,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.12452687358062074,
+                    0.0
+                ]
+            },
+            "raw_articles/article_44.txt": {
+                "precision_omega_scores": [
+                    0.41887905604719766,
+                    0.2949852507374631,
+                    0.23303834808259588
+                ],
+                "iou_scores": [
+                    0.053747161241483724,
+                    0.0,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.053747161241483724,
+                    0.0,
+                    0.0
+                ]
+            },
+            "raw_articles/article_45.txt": {
+                "precision_omega_scores": [
+                    0.22933333333333333,
+                    0.08933333333333333,
+                    0.08333333333333333,
+                    0.08933333333333333
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.02110236220472441,
+                    0.002754062241806665,
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0,
+                    0.12345679012345678,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.02110236220472441,
+                    0.0028089887640449437,
+                    0.0
+                ]
+            },
+            "raw_articles/article_46.txt": {
+                "precision_omega_scores": [
+                    0.25866666666666666,
+                    0.156
+                ],
+                "iou_scores": [
+                    0.05173333333333333,
+                    0.0312
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.05173333333333333,
+                    0.0312
+                ]
+            },
+            "raw_articles/article_47.txt": {
+                "precision_omega_scores": [
+                    0.066,
+                    0.22133333333333333,
+                    0.22,
+                    0.168,
+                    0.164,
+                    0.148
+                ],
+                "iou_scores": [
+                    0.02037567653613499,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "recall_scores": [
+                    0.6464646464646465,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0206052801030264,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "raw_articles/article_48.txt": {
+                "precision_omega_scores": [
+                    0.11614730878186968
+                ],
+                "iou_scores": [
+                    0.015601217656012176
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.015601217656012176
+                ]
+            },
+            "raw_articles/article_49.txt": {
+                "precision_omega_scores": [
+                    0.07733333333333334,
+                    0.10666666666666667
+                ],
+                "iou_scores": [
+                    0.015466666666666667,
+                    0.021333333333333333
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.015466666666666667,
+                    0.021333333333333333
+                ]
+            },
+            "raw_articles/article_16.txt": {
+                "precision_omega_scores": [
+                    0.14,
+                    0.25666666666666665,
+                    0.2653333333333333
+                ],
+                "iou_scores": [
+                    0.056,
+                    0.10266666666666667,
+                    0.053066666666666665
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.056,
+                    0.10266666666666667,
+                    0.053066666666666665
+                ]
+            },
+            "raw_articles/article_42.txt": {
+                "precision_omega_scores": [
+                    0.14133333333333334,
+                    0.15733333333333333
+                ],
+                "iou_scores": [
+                    0.03412749517063748,
+                    0.034593960715332744
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.03412749517063748,
+                    0.034593960715332744
+                ]
+            }
+        },
+        "iou_mean": 0.03628596896693633,
+        "iou_std": 0.035159441965434836,
+        "recall_mean": 0.645004248606531,
+        "recall_std": 0.44412148004230906,
+        "precision_omega_mean": 0.21602674243859044,
+        "precision_omega_std": 0.11835239136532805,
+        "precision_mean": 0.03667589399150165,
+        "precision_std": 0.035663851139375854
+    },
+    "LLMSemanticChunker": {
+        "corpora_scores": {
+            "raw_articles/article_0.txt": {
+                "precision_omega_scores": [
+                    0.2922374429223744
+                ],
+                "iou_scores": [
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0
+                ]
+            },
+            "raw_articles/article_1.txt": {
+                "precision_omega_scores": [
+                    0.03508771929824561
+                ],
+                "iou_scores": [
+                    0.0061707233459033254
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0061707233459033254
+                ]
+            },
+            "raw_articles/article_2.txt": {
+                "precision_omega_scores": [
+                    0.3913764510779436,
+                    0.12082066869300911
+                ],
+                "iou_scores": [
+                    0.06390468453831573,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.06390468453831573,
+                    0.0
+                ]
+            },
+            "raw_articles/article_3.txt": {
+                "precision_omega_scores": [
+                    0.2548262548262548,
+                    0.7874015748031497,
+                    0.21842105263157896
+                ],
+                "iou_scores": [
+                    0.06797116374871266,
+                    0.07624857033930614,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.06797116374871266,
+                    0.07624857033930614,
+                    0.0
+                ]
+            },
+            "raw_articles/article_4.txt": {
+                "precision_omega_scores": [
+                    0.2727272727272727,
+                    0.6956521739130435
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "raw_articles/article_5.txt": {
+                "precision_omega_scores": [
+                    0.157254561251086,
+                    0.12337098175499565
+                ],
+                "iou_scores": [
+                    0.04219114219114219,
+                    0.028332003192338386
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.04219114219114219,
+                    0.028332003192338386
+                ]
+            },
+            "raw_articles/article_6.txt": {
+                "precision_omega_scores": [
+                    0.19633152173913043
+                ],
+                "iou_scores": [
+                    0.05294408708560119
+                ],
+                "recall_scores": [
+                    0.740484429065744
+                ],
+                "precision_scores": [
+                    0.05394504663473658
+                ]
+            },
+            "raw_articles/article_7.txt": {
+                "precision_omega_scores": [
+                    0.1337126600284495,
+                    0.1955420466058764,
+                    0.33401639344262296
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.0,
+                    0.03558951965065502
+                ],
+                "recall_scores": [
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.0,
+                    0.03558951965065502
+                ]
+            },
+            "raw_articles/article_8.txt": {
+                "precision_omega_scores": [
+                    0.07827359180687637,
+                    0.08860129417620707,
+                    0.1827364554637282
+                ],
+                "iou_scores": [
+                    0.024785730831596017,
+                    0.03493621197252208,
+                    0.043861582543530966
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.024785730831596017,
+                    0.03493621197252208,
+                    0.043861582543530966
+                ]
+            },
+            "raw_articles/article_9.txt": {
+                "precision_omega_scores": [
+                    0.30773277222514467,
+                    0.12849584278155707,
+                    0.12492307692307693
+                ],
+                "iou_scores": [
+                    0.08169250104733976,
+                    0.035131225459805744,
+                    0.028347996089931573
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.08169250104733976,
+                    0.035131225459805744,
+                    0.028347996089931573
+                ]
+            },
+            "raw_articles/article_10.txt": {
+                "precision_omega_scores": [
+                    0.1737722611980572,
+                    0.44285714285714284
+                ],
+                "iou_scores": [
+                    0.060790273556231005,
+                    0.1329656862745098
+                ],
+                "recall_scores": [
+                    0.6211180124223602,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.06313131313131314,
+                    0.1329656862745098
+                ]
+            },
+            "raw_articles/article_11.txt": {
+                "precision_omega_scores": [
+                    0.09560524286815729,
+                    0.2545297670405522
+                ],
+                "iou_scores": [
+                    0.0249396621078037,
+                    0.10350877192982456
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0249396621078037,
+                    0.10350877192982456
+                ]
+            },
+            "raw_articles/article_12.txt": {
+                "precision_omega_scores": [
+                    0.2301255230125523,
+                    0.11935483870967742
+                ],
+                "iou_scores": [
+                    0.04862953138815208,
+                    0.023202341137123744
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.04862953138815208,
+                    0.023202341137123744
+                ]
+            },
+            "raw_articles/article_13.txt": {
+                "precision_omega_scores": [
+                    0.7230046948356808,
+                    0.12844611528822056,
+                    0.4195804195804196
+                ],
+                "iou_scores": [
+                    0.1023936170212766,
+                    0.04118119726797911,
+                    0.06544502617801047
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.1023936170212766,
+                    0.04118119726797911,
+                    0.06544502617801047
+                ]
+            },
+            "raw_articles/article_14.txt": {
+                "precision_omega_scores": [
+                    0.3862928348909657,
+                    0.25127334465195245
+                ],
+                "iou_scores": [
+                    0.09131075110456553,
+                    0.04630788485607009
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.09131075110456553,
+                    0.04630788485607009
+                ]
+            },
+            "raw_articles/article_15.txt": {
+                "precision_omega_scores": [
+                    0.25415676959619954,
+                    0.2524630541871921
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.013562386980108499
+                ],
+                "recall_scores": [
+                    0.0,
+                    0.2926829268292683
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.014021967749474177
+                ]
+            },
+            "raw_articles/article_17.txt": {
+                "precision_omega_scores": [
+                    0.5671641791044776,
+                    0.24571036376115304,
+                    0.46774193548387094
+                ],
+                "iou_scores": [
+                    0.08878504672897196,
+                    0.08374269005847954,
+                    0.13784277879341864
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.08878504672897196,
+                    0.08374269005847954,
+                    0.13784277879341864
+                ]
+            },
+            "raw_articles/article_18.txt": {
+                "precision_omega_scores": [
+                    0.07899382171226832,
+                    0.1707920792079208
+                ],
+                "iou_scores": [
+                    0.03466305189775368,
+                    0.045056810761394804
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.03466305189775368,
+                    0.045056810761394804
+                ]
+            },
+            "raw_articles/article_19.txt": {
+                "precision_omega_scores": [
+                    0.1513317191283293,
+                    0.3766617429837518
+                ],
+                "iou_scores": [
+                    0.05188875051888751,
+                    0.09474270852684377
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.05188875051888751,
+                    0.09474270852684377
+                ]
+            },
+            "raw_articles/article_20.txt": {
+                "precision_omega_scores": [
+                    0.24057539682539683
+                ],
+                "iou_scores": [
+                    0.0872930165586753
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0872930165586753
+                ]
+            },
+            "raw_articles/article_21.txt": {
+                "precision_omega_scores": [
+                    0.07249114521841794,
+                    0.1309148264984227,
+                    0.26018396846254926
+                ],
+                "iou_scores": [
+                    0.04098798397863818,
+                    0.03672024775106916,
+                    0.026997545677665668
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.04098798397863818,
+                    0.03672024775106916,
+                    0.026997545677665668
+                ]
+            },
+            "raw_articles/article_22.txt": {
+                "precision_omega_scores": [
+                    0.25705939629990265
+                ],
+                "iou_scores": [
+                    0.0713802893064756
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0713802893064756
+                ]
+            },
+            "raw_articles/article_23.txt": {
+                "precision_omega_scores": [
+                    0.14809590973201692,
+                    0.21936459909228442,
+                    0.15796897038081806
+                ],
+                "iou_scores": [
+                    0.03244746600741656,
+                    0.04019961186581647,
+                    0.03171905975644294
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.03244746600741656,
+                    0.04019961186581647,
+                    0.03171905975644294
+                ]
+            },
+            "raw_articles/article_24.txt": {
+                "precision_omega_scores": [
+                    0.3447098976109215,
+                    0.2593856655290102
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.03264604810996564
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.03264604810996564
+                ]
+            },
+            "raw_articles/article_25.txt": {
+                "precision_omega_scores": [
+                    0.08784473953013279,
+                    0.1195097037793667
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "raw_articles/article_26.txt": {
+                "precision_omega_scores": [
+                    0.23333333333333334
+                ],
+                "iou_scores": [
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0
+                ]
+            },
+            "raw_articles/article_27.txt": {
+                "precision_omega_scores": [
+                    0.2717271727172717,
+                    0.5453446191051995
+                ],
+                "iou_scores": [
+                    0.04957848253713368,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.04957848253713368,
+                    0.0
+                ]
+            },
+            "raw_articles/article_28.txt": {
+                "precision_omega_scores": [
+                    0.15870967741935485,
+                    0.12645161290322582,
+                    0.12258064516129032
+                ],
+                "iou_scores": [
+                    0.03732928679817906,
+                    0.03656716417910448,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.03732928679817906,
+                    0.03656716417910448,
+                    0.0
+                ]
+            },
+            "raw_articles/article_29.txt": {
+                "precision_omega_scores": [
+                    0.28587319243604004,
+                    0.09788654060066741
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.02071563088512241
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.02071563088512241
+                ]
+            },
+            "raw_articles/article_30.txt": {
+                "precision_omega_scores": [
+                    0.07194244604316546,
+                    0.07333333333333333,
+                    0.29295774647887324
+                ],
+                "iou_scores": [
+                    0.01639344262295082,
+                    0.028958254983076345,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.01639344262295082,
+                    0.028958254983076345,
+                    0.0
+                ]
+            },
+            "raw_articles/article_31.txt": {
+                "precision_omega_scores": [
+                    0.08492569002123142
+                ],
+                "iou_scores": [
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0
+                ]
+            },
+            "raw_articles/article_32.txt": {
+                "precision_omega_scores": [
+                    0.17458279845956354
+                ],
+                "iou_scores": [
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0
+                ]
+            },
+            "raw_articles/article_33.txt": {
+                "precision_omega_scores": [
+                    0.304
+                ],
+                "iou_scores": [
+                    0.052269601100412656
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.052269601100412656
+                ]
+            },
+            "raw_articles/article_34.txt": {
+                "precision_omega_scores": [
+                    0.31778169014084506,
+                    0.10035211267605634
+                ],
+                "iou_scores": [
+                    0.07405128205128206,
+                    0.023331968890708144
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.07405128205128206,
+                    0.023331968890708144
+                ]
+            },
+            "raw_articles/article_35.txt": {
+                "precision_omega_scores": [
+                    0.11802973977695168
+                ],
+                "iou_scores": [
+                    0.03625463888095918
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.03625463888095918
+                ]
+            },
+            "raw_articles/article_36.txt": {
+                "precision_omega_scores": [
+                    0.11796733212341198,
+                    0.8953488372093024
+                ],
+                "iou_scores": [
+                    0.020230314347961405,
+                    0.0439623180131316
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.020230314347961405,
+                    0.0439623180131316
+                ]
+            },
+            "raw_articles/article_37.txt": {
+                "precision_omega_scores": [
+                    0.1211734693877551
+                ],
+                "iou_scores": [
+                    0.027119611761347417
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.027119611761347417
+                ]
+            },
+            "raw_articles/article_38.txt": {
+                "precision_omega_scores": [
+                    0.12828282828282828,
+                    0.16304347826086957,
+                    0.7160493827160493
+                ],
+                "iou_scores": [
+                    0.02827248441674087,
+                    0.046761343955663316,
+                    0.04083069341781063
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.02827248441674087,
+                    0.046761343955663316,
+                    0.04083069341781063
+                ]
+            },
+            "raw_articles/article_39.txt": {
+                "precision_omega_scores": [
+                    0.04551724137931035,
+                    0.3576349024110218
+                ],
+                "iou_scores": [
+                    0.01910090681072738,
+                    0.14990375360923966
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.01910090681072738,
+                    0.14990375360923966
+                ]
+            },
+            "raw_articles/article_40.txt": {
+                "precision_omega_scores": [
+                    0.3260340632603406,
+                    0.40389294403892945
+                ],
+                "iou_scores": [
+                    0.03584804708400214,
+                    0.049969897652016856
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.03584804708400214,
+                    0.049969897652016856
+                ]
+            },
+            "raw_articles/article_41.txt": {
+                "precision_omega_scores": [
+                    0.30248306997742663
+                ],
+                "iou_scores": [
+                    0.0277720207253886
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0277720207253886
+                ]
+            },
+            "raw_articles/article_43.txt": {
+                "precision_omega_scores": [
+                    0.38276670574443145,
+                    0.06330597889800703
+                ],
+                "iou_scores": [
+                    0.15314258911819886,
+                    0.02616279069767442
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.15314258911819886,
+                    0.02616279069767442
+                ]
+            },
+            "raw_articles/article_44.txt": {
+                "precision_omega_scores": [
+                    0.41887905604719766,
+                    0.2949852507374631,
+                    0.23303834808259588
+                ],
+                "iou_scores": [
+                    0.042464114832535885,
+                    0.0,
+                    0.0
+                ],
+                "recall_scores": [
+                    1.0,
+                    0.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.042464114832535885,
+                    0.0,
+                    0.0
+                ]
+            },
+            "raw_articles/article_45.txt": {
+                "precision_omega_scores": [
+                    0.24089635854341737,
+                    0.0938375350140056,
+                    0.32661290322580644,
+                    0.06964656964656965
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.02790503956684715,
+                    0.0,
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.02790503956684715,
+                    0.0,
+                    0.0
+                ]
+            },
+            "raw_articles/article_46.txt": {
+                "precision_omega_scores": [
+                    0.254259501965924,
+                    0.15334207077326342
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.03738019169329074
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.03738019169329074
+                ]
+            },
+            "raw_articles/article_47.txt": {
+                "precision_omega_scores": [
+                    0.06474820143884892,
+                    0.10856769130150425,
+                    0.1079136690647482,
+                    0.08240680183126227,
+                    0.08044473512099411,
+                    0.07259646827992151
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.033962264150943396,
+                    0.0,
+                    0.0
+                ],
+                "recall_scores": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.033962264150943396,
+                    0.0,
+                    0.0
+                ]
+            },
+            "raw_articles/article_48.txt": {
+                "precision_omega_scores": [
+                    0.11614730878186968
+                ],
+                "iou_scores": [
+                    0.010591578403513303
+                ],
+                "recall_scores": [
+                    1.0
+                ],
+                "precision_scores": [
+                    0.010591578403513303
+                ]
+            },
+            "raw_articles/article_49.txt": {
+                "precision_omega_scores": [
+                    0.07601572739187418,
+                    0.10484927916120576
+                ],
+                "iou_scores": [
+                    0.0,
+                    0.02664890073284477
+                ],
+                "recall_scores": [
+                    0.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.0,
+                    0.02664890073284477
+                ]
+            },
+            "raw_articles/article_16.txt": {
+                "precision_omega_scores": [
+                    0.21384928716904278,
+                    0.1937594363361852,
+                    0.13771626297577855
+                ],
+                "iou_scores": [
+                    0.05823627287853577,
+                    0.04896349993641104,
+                    0.06507521255722695
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.05823627287853577,
+                    0.04896349993641104,
+                    0.06507521255722695
+                ]
+            },
+            "raw_articles/article_42.txt": {
+                "precision_omega_scores": [
+                    0.20267686424474188,
+                    0.4645669291338583
+                ],
+                "iou_scores": [
+                    0.026473526473526472,
+                    0.04686258935663225
+                ],
+                "recall_scores": [
+                    1.0,
+                    1.0
+                ],
+                "precision_scores": [
+                    0.026473526473526472,
+                    0.04686258935663225
+                ]
+            }
+        },
+        "iou_mean": 0.035684406540164255,
+        "iou_std": 0.03453005219350019,
+        "recall_mean": 0.704285711021862,
+        "recall_std": 0.4497569744102194,
+        "precision_omega_mean": 0.23323181810107144,
+        "precision_omega_std": 0.16575152450581576,
+        "precision_mean": 0.03572027050142448,
+        "precision_std": 0.034548942747614
+    }
+}

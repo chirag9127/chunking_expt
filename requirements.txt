@@ -1,0 +1,3 @@
+chunking_evaluation@git+https://github.com/brandonstarxel/chunking_evaluation.git
+beautifulsoup4==4.12.3
+openai==1.50.0

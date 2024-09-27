@@ -1,0 +1,6 @@
+.env
+raw_articles/
+raw_pages/
+articles.txt
+checkpoint.json
+__pycache__/
